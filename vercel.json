@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/raabta",
+      "destination": "https://pixelsell.webflow.io"
+    }
+  ]
+}
